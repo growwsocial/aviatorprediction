@@ -1,1 +1,121 @@
-const _0x25ab9f=_0x32c1;(function(_0x4bf2c9,_0x19a267){const _0x12c4dd=_0x32c1,_0x3a50fb=_0x4bf2c9();while(!![]){try{const _0x9d7e59=parseInt(_0x12c4dd(0x101))/0x1*(-parseInt(_0x12c4dd(0x106))/0x2)+-parseInt(_0x12c4dd(0x10b))/0x3+parseInt(_0x12c4dd(0x10e))/0x4*(-parseInt(_0x12c4dd(0x10a))/0x5)+-parseInt(_0x12c4dd(0x103))/0x6*(-parseInt(_0x12c4dd(0x11a))/0x7)+parseInt(_0x12c4dd(0x116))/0x8+-parseInt(_0x12c4dd(0x107))/0x9*(parseInt(_0x12c4dd(0x112))/0xa)+parseInt(_0x12c4dd(0x110))/0xb*(parseInt(_0x12c4dd(0x115))/0xc);if(_0x9d7e59===_0x19a267)break;else _0x3a50fb['push'](_0x3a50fb['shift']());}catch(_0x39e0f6){_0x3a50fb['push'](_0x3a50fb['shift']());}}}(_0x119f,0x68e80));function _0x119f(){const _0x4eb9e1=['display','createElement','a1b2c3','dashboard.aviatorhacks.xyz','block','textContent','classList','type','body','div','rel','568657OsxsgW','\x0a\x20\x20\x20\x20.x1y2z3\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20top:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:\x20rgba(0,\x200,\x200,\x200.8);\x0a\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x20999;\x0a\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20.a1b2c3\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20filter:\x20blur(5px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative;\x0a\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x20998;\x0a\x20\x20\x20\x20\x20\x20\x20\x20pointer-events:\x20none;\x0a\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20.j4k5l6\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20width:\x2070%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x20400px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20height:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20background:\x20radial-gradient(circle,\x20#2c2c2c,\x20#4c4c4c);\x0a\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x2010px\x2020px\x20rgba(0,\x200,\x200,\x200.6);\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#f0f0f0;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20\x27Verdana\x27,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x201000;\x0a\x20\x20\x20\x20\x20\x20\x20\x20opacity:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20animation:\x20fadeAnim\x201s\x20forwards;\x0a\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20.k7m8n9\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20.k7m8n9\x20p\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x201.1em;\x0a\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x200\x2020px;\x0a\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20.k7m8n9\x20a\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#3cb371;\x0a\x20\x20\x20\x20\x20\x20\x20\x20text-decoration:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20.k7m8n9\x20a:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#2e8b57;\x0a\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20.b1c2d3\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#3cb371;\x0a\x20\x20\x20\x20\x20\x20\x20\x20color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2012px\x2025px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x206px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x201.1em;\x0a\x20\x20\x20\x20\x20\x20\x20\x20margin-top:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background-color\x200.3s;\x0a\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20.b1c2d3:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#2e8b57;\x0a\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20@keyframes\x20fadeAnim\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20from\x20{\x20opacity:\x200;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20to\x20{\x20opacity:\x201;\x20}\x0a\x20\x20\x20\x20}\x0a','1869198ukzwVX','appendChild','querySelector','2XZuUOT','1644543sQyWik','.z9y8x7','https://growwsocial.github.io/aviatorprediction/dash.style.css','967070ROVkRd','464313nBRaWN','stylesheet','href','8vVYpXg','head','55FgBPhK','location','30HQUgfP','innerHTML','style','1465572vzannO','6835296iedPNF','text/css','x1y2z3','className','14RNbSqJ','add'];_0x119f=function(){return _0x4eb9e1;};return _0x119f();}function showPopup(){const _0x4c313f=_0x32c1,_0x34b2bc=document[_0x4c313f(0xf7)](_0x4c313f(0xff));_0x34b2bc[_0x4c313f(0x119)]=_0x4c313f(0x118),document[_0x4c313f(0xfe)][_0x4c313f(0x104)](_0x34b2bc);const _0x27f2e8=document[_0x4c313f(0xf7)](_0x4c313f(0xff));_0x27f2e8[_0x4c313f(0x119)]='j4k5l6',_0x27f2e8[_0x4c313f(0x113)]='\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22k7m8n9\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p>You\x20have\x20not\x20purchased.\x20<a\x20href=\x22https://yourlandingpage.com\x22>Click\x20here</a>\x20to\x20purchase.</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22b1c2d3\x22\x20onclick=\x22window.location.href=\x27https://yourlandingpage.com\x27\x22>Purchase\x20Now</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20',document[_0x4c313f(0xfe)][_0x4c313f(0x104)](_0x27f2e8),_0x34b2bc[_0x4c313f(0x114)][_0x4c313f(0x11c)]=_0x4c313f(0xfa),document[_0x4c313f(0x105)](_0x4c313f(0x108))?.[_0x4c313f(0xfc)][_0x4c313f(0x11b)](_0x4c313f(0xf8)),_0x27f2e8['style'][_0x4c313f(0x11c)]='flex';}const link=document['createElement']('link');link[_0x25ab9f(0x100)]=_0x25ab9f(0x10c),link[_0x25ab9f(0xfd)]=_0x25ab9f(0x117),link[_0x25ab9f(0x10d)]=_0x25ab9f(0x109),document[_0x25ab9f(0x10f)]['appendChild'](link);const style=document[_0x25ab9f(0xf7)](_0x25ab9f(0x114));style[_0x25ab9f(0xfb)]=_0x25ab9f(0x102),document[_0x25ab9f(0x10f)]['appendChild'](style);function _0x32c1(_0x5554b8,_0x3c5f69){const _0x119f26=_0x119f();return _0x32c1=function(_0x32c1d1,_0x2178b8){_0x32c1d1=_0x32c1d1-0xf7;let _0x1cd6af=_0x119f26[_0x32c1d1];return _0x1cd6af;},_0x32c1(_0x5554b8,_0x3c5f69);}window[_0x25ab9f(0x111)]['hostname']!==_0x25ab9f(0xf9)&&showPopup();
+const allowedDomain = 'dashboard.aviatorhacks.xyz';
+
+// Function to dynamically insert and show the popup
+function showPopup() {
+    const overlay = document.createElement('div');
+    overlay.className = 'x1y2z3';
+    document.body.appendChild(overlay);
+
+    const popup = document.createElement('div');
+    popup.className = 'j4k5l6';
+    popup.innerHTML = `
+        <div class="k7m8n9">
+            <p>You have not purchased. <a href="https://yourlandingpage.com">Click here</a> to purchase.</p>
+            <button class="b1c2d3" onclick="window.location.href='https://yourlandingpage.com'">Purchase Now</button>
+        </div>
+    `;
+    document.body.appendChild(popup);
+
+    // Apply styles
+    overlay.style.display = 'block';
+    document.querySelector('.z9y8x7')?.classList.add('a1b2c3'); // Optional if 'z9y8x7' is an existing class
+    popup.style.display = 'flex';
+}
+
+// Add external CSS link
+const link = document.createElement('link');
+link.rel = 'stylesheet';
+link.type = 'text/css';
+link.href = 'https://growwsocial.github.io/aviatorprediction/dash.style.css';
+document.head.appendChild(link);
+
+// Add inline CSS dynamically
+const style = document.createElement('style');
+style.textContent = `
+    .x1y2z3 {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.8);
+        z-index: 999;
+    }
+
+    .a1b2c3 {
+        filter: blur(5px);
+        position: relative;
+        z-index: 998;
+        pointer-events: none;
+    }
+
+    .j4k5l6 {
+        display: none;
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 70%;
+        max-width: 400px;
+        height: auto;
+        background: radial-gradient(circle, #2c2c2c, #4c4c4c);
+        border-radius: 20px;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.6);
+        color: #f0f0f0;
+        font-family: 'Verdana', sans-serif;
+        z-index: 1000;
+        opacity: 0;
+        animation: fadeAnim 1s forwards;
+    }
+
+    .k7m8n9 {
+        padding: 25px;
+        text-align: center;
+    }
+
+    .k7m8n9 p {
+        font-size: 1.1em;
+        margin: 0 0 20px;
+    }
+
+    .k7m8n9 a {
+        color: #3cb371;
+        text-decoration: none;
+        font-weight: bold;
+    }
+
+    .k7m8n9 a:hover {
+        color: #2e8b57;
+    }
+
+    .b1c2d3 {
+        background-color: #3cb371;
+        color: #fff;
+        padding: 12px 25px;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 1.1em;
+        margin-top: 20px;
+        transition: background-color 0.3s;
+    }
+
+    .b1c2d3:hover {
+        background-color: #2e8b57;
+    }
+
+    @keyframes fadeAnim {
+        from { opacity: 0; }
+        to { opacity: 1; }
+    }
+`;
+document.head.appendChild(style);
+
+// Debugging: Log the current hostname
+console.log('Current Hostname:', window.location.hostname);
+
+// Check domain and show popup if necessary
+if (window.location.hostname.trim().toLowerCase() !== allowedDomain.trim().toLowerCase()) {
+    showPopup();
+}
